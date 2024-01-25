@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamsanap-dev&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamsanap-dev" /> </p>
 
-- 🌱 I’m currently learning **Frontend development**
+- 🌱 I’m currently learning **MEAN stack development**
 
 - 💬 Ask me about **Angular, NodeJS**
 
